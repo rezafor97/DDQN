@@ -2,7 +2,7 @@
 
 
 Deep-Q-Learning with tensorflow2
-
+In this game jerry must to learn find cheese place without Tom catch it or fall into a trap
 ![tom-and-jerry-story](https://user-images.githubusercontent.com/71963543/108226143-db45b380-7151-11eb-9b42-a99c27ea4fb6.png)
 
 
