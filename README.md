@@ -2,7 +2,8 @@
 
 Deep-Q-Learning with tensorflow2
 
-[Tom and Jerry story](https://ibb.co/G0z4w66)
+![Tom and Jerry story](https://user-images.githubusercontent.com/71963543/108225434-2dd2a000-7151-11eb-8903-ee527a499fc2.png)
+
 
 Deep Reinforcement Learning with Double Q Learning:
 
