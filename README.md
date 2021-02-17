@@ -5,7 +5,8 @@ Deep-Q-Learning with tensorflow2
 
 
 ## In this game jerry must to learn find cheese place without Tom catch it or fall into a trap
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/71963543/108240789-6af25e80-7160-11eb-967b-d702717a2502.gif)
+
+https://user-images.githubusercontent.com/71963543/108242222-eb658f00-7161-11eb-8c1d-d5cd25b3e465.mp4
 
 
 Deep Reinforcement Learning with Double Q Learning:
