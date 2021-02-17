@@ -16,7 +16,7 @@ Dueling Network Architectures for Deep Reinforcement Learning:
 
 https://arxiv.org/abs/1511.06581
 
-[more info](https://medium.com/@parsa_h_m/deep-reinforcement-learning-dqn-double-dqn-dueling-dqn-noisy-dqn-and-dqn-with-prioritized-551f621a9823)
+[more info in medium](https://medium.com/@parsa_h_m/deep-reinforcement-learning-dqn-double-dqn-dueling-dqn-noisy-dqn-and-dqn-with-prioritized-551f621a9823)
 
 this readme is a work in progress.
 
